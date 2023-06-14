@@ -5,7 +5,7 @@ Visual Studio
 SpecFlow installed in Visual Studio 2022
 
 Copy the repository link: https://github.com/Narasimha271/Katalon.Automation.Tests.git
-Ope Visual Stodio and select Clone a Repository.
+Open Visual Studio and select Clone a Repository.
 Select GitHub from Browse a repository section.
 Login to the GitHub and paste the above URL in search box.
 Press Clone and then open the cloned Project and Install any missing nuget packages.
