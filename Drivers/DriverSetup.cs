@@ -21,7 +21,7 @@ namespace Katalon.Automation.Tests.Drivers
         }
         public void Dispose()
         {
-            //Driver.Quit();
+            Driver.Quit();
         }
     }
 }
